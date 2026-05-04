@@ -1,19 +1,5 @@
-# FarmTrust
-/farmer-trust-platform
-  /frontend
-    /pages
-      profile.html
-      dashboard.html
-      add.html
-      rating.html
-    /js
-      supabase.js
-      profile.js
-      score.js
-    /css
-      styles.css
-
-  /docs
-    schema.md
-
-  README.md
+Rules:
+- Do NOT push directly to main
+- Create your own branch
+- Use clear commit messages
+- Do not change others' files without telling
